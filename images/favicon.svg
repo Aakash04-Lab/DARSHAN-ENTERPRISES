@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Darshan Enterprises logo">
+  <rect width="512" height="512" fill="white"/>
+  <g fill="#0b3f80">
+    <path d="M78 108h143c79 0 130 43 130 108 0 38-17 70-49 91 20-60 17-112-12-142-23-24-56-36-101-36h-37v236l-48 39V155c0-24-8-36-26-47z"/>
+    <path d="M296 144h138l-11 45H342v47h70l-14 43h-56v76h92l-15 49H278l38-39V188z"/>
+    <path d="M73 381c91-21 145-96 211-139 67-44 133-46 201-28-75 10-125 32-183 74-71 51-130 93-229 101z"/>
+  </g>
+</svg>
