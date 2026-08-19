@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aakash04-lab.github.io/DARSHAN-ENTERPRISES/sitemap.xml
